@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Go Second</string>
+    <string name="second_fragment_label">Go First</string>
+    <string name="first">GoSecond</string>
+    <string name="second" >GoFirst</string>
+    <string name="image_for_go_second">Go Second</string>
+    <string name="image_for_go_first">Go First</string>
+</resources>
