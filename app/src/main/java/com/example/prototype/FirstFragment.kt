@@ -1,18 +1,15 @@
-package com.example.atnixagent
+package com.example.prototype
 
 
+import android.content.IntentFilter
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
-import com.example.atnixagent.databinding.FragmentFirstBinding
+import com.example.prototype.databinding.FragmentFirstBinding
 
-import android.content.Intent
-import android.content.IntentFilter
-import android.hardware.usb.UsbDevice
-import android.hardware.usb.UsbManager
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
